@@ -13,7 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Network Magic
+    title: >-
+      Network Magic is a lab for learning network virtualization. Overlays, open
+      vswitch aka OVS, vxlan, OVN or Open Virtual Network are some great buz
+      words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
