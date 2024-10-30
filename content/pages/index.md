@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-b
     backgroundSize: full
     title: >-
       Network Magic is a lab for learning network virtualization. Overlays, open
